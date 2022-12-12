@@ -10,7 +10,8 @@ def print_hi(name):
 
 #Esto es un comentario para commit
 #Nuevo comentario
-
+ayuda = 0
+print(ayuda)
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
